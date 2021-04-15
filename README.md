@@ -19,10 +19,10 @@ How to block Pendrive in my computer
    
 --------
    
-5. Change the value from "3" to "4" 
+4. Change the value from "3" to "4" 
 
 ----------
 
-6. DOne
+5. DOne
   
 ------
